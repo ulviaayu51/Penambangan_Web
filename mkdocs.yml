@@ -1,6 +1,0 @@
-site_name: My Docs
-nav: 
-    -Web Crawling: index.md
-    -Web Structure: index_struktur.md
-theme:
-    name: 'material'
